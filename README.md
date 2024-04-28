@@ -39,9 +39,5 @@
 - 🎓 Chung-Ang University, Artificial intelligence (2022.09~ )
 - 🎓 Sangmyung University, Information and Communication Engineering (2018.03~2022.02)
 
-### What I Like
-- 💪 Pilates
-- 💃 Dance
-- 🎤 Sing
   
 </div>
