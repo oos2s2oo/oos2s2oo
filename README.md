@@ -23,8 +23,8 @@
 
 ### Follow Me 📫
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link="/></a>&nbsp
-  <a href="https://www.instagram.com/hye_inisfree/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lyn_s2_/"/></a>&nbsp
+  <a href="https://oos2.tistory.com/"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Vimeo&logoColor=white&link=https://oos2.tistory.com/"/></a>&nbsp
+  <a href="https://www.instagram.com/lyn_s2_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lyn_s2_/"/></a>&nbsp
   <a href="mailto:mylynchae0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mylynchae@gmail.com"/></a>
 </p>
 </div>
@@ -34,6 +34,18 @@
 - 🌱 I’m currently learning AI
 - 🥇 I majored in Information and Communication Engineering
 - 🚅 I live is Seoul in Korea
+
+### Achievement
+▪ In International Conferences
+  - A Crux on Current Neural Collaborative Filtering Methods, ICEIC, 2023
+
+▪ In Domestic Conferences
+  - An Efficient Fine-Tuning of Generative Language Model for Aspect-Based Sentiment Analysis, International Conference on Consumer Electronics, 2024
+  
+• Training and Event
+  - ELTE Budapest Summer University, Eötvös Loránd University, Budapest, Hungary, 2023
+  - 2023 Singapore K-Tech Festival - AI/ML Innovation Research Center Booth, Singapore, Singapore, 2023
+
 
 ### Education 
 - 🎓 Chung-Ang University, Artificial intelligence (2022.09~ )
